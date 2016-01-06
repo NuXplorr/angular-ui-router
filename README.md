@@ -1,1 +1,1 @@
-# angular-ui-router
+# angular-ui-router-dist
