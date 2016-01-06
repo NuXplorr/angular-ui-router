@@ -1,0 +1,9 @@
+{
+	"name": "jquery-dist",
+	"main": [
+	  "angular-ui-router.js"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
